@@ -1,1 +1,1 @@
-echo "# oichat" > README.md
+echo "# oichat" 
